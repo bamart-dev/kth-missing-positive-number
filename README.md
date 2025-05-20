@@ -6,7 +6,6 @@ Given an array arr of positive integers sorted in a strictly increasing order an
 ```
 Input:
 arr = [2,3,4,7,11], k = 5
-r = 2, c = 4
 
 Output:
 9
